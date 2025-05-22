@@ -1,6 +1,6 @@
 # Moegamat Tauriq Osman - Digital Portfolio
 
-> 🎓 *Information and Communication Technology Student: Applications Development
+> 🎓 Information and Communication Technology Student: Applications Development
 
 Welcome to my digital hub. Here, you'll find my projects, ideas, and the stories behind them. It's a glimpse into my passion for learning, creating, and pushing boundaries. Have a look and see where my journey is headed.
 ---
