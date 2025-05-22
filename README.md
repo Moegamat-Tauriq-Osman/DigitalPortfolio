@@ -36,6 +36,7 @@ I created intuitive wireframes and interactive prototypes using Figma, turning a
 These experiences improved my logical thinking, attention to detail, and problem-solving abilities. I’m now confident in designing seamless user experiences and building scalable backend systems. I continue to explore how thoughtful design and solid development practices can come together to create meaningful, reliable applications.
 
 Visit my personal website to explore my projects:
+
 🔗 [My Personal Portfolio Website](https://moegamattauriqosman.pages.dev/)
 
 ---
@@ -51,7 +52,8 @@ Creating my CV was an important step as i now understood what a CV intails which
 ### Project Presentation - Work-Integrated Learning (WIL) Module
 The module helped me alot on understanding how to create a presentable CV, Condsucting myself for an interview but primarily gives you the get go for work readiness, applying yourself to the real world in your field.
 
-![Project Preentation: WIL Module Screenshot](./Screenshot.png)
+![Project Presntation: WIL Module Screenshot](./Screenshot.png)
+![Project Presntation: WIL Module Screenshot CV](./Screenshot$1.png)
 
 ---
 
@@ -62,7 +64,26 @@ Below is my CV(not complete due to sensitive information), compiled during the P
 I have also completed a Job Search Log which is to keep track of which organisations or capanies you have applied to by monitoring progress and opportunities.
 
 📄 [View My CV](./CV.pdf)
-📄 [View My Job Search Log](./Job Search Log.pdf)
+📄 [View My Job Search Log](./Job%Search%Log.pdf)
 
+---
+
+## 🧩 Final Reflection
+
+This portfolio journey has helped me better understand who I am—not just as a student, but as a growing IT professional. I've realized that it's perfectly okay to still be discovering my path, as long as I'm intentional with how I learn, the projects I take on, and how I present my skills and ideas. Each step has strengthened my passion for building practical, user-focused applications and finding innovative solutions through technology.
+
+I'm looking forward to deepening my skills in areas that challenge me creatively and technically like:
+- 🖌️ UI/UX design
+- 📱 App development
+- 🌐 Web Development and Web Frameworks
+- 🧑‍🤝‍🧑 Collaboration and team-building
+
+---
+
+### 🔗 Connect with Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/moegamattauriqosman)  
+💻 [My Personal Website – GitHub Projects, Skills, Contact Info, About Me](https://moegamattauriqosman.pages.dev/)  
+✉️ Email: moegamattauriqosman@gmail.com | 230599125@mycput.ac.za
 
 
