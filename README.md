@@ -53,7 +53,7 @@ Creating my CV was an important step as i now understood what a CV intails which
 The module helped me alot on understanding how to create a presentable CV, Condsucting myself for an interview but primarily gives you the get go for work readiness, applying yourself to the real world in your field.
 
 ![Project Presntation: WIL Module Screenshot](./Screenshot.png)
-![Project Presntation: WIL Module Screenshot CV](./Screenshot$1.png)
+![Project Presntation: WIL Module Screenshot CV](./Screenshot%1.png)
 
 ---
 
