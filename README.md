@@ -64,7 +64,7 @@ Below is my CV(not complete due to sensitive information), compiled during the P
 I have also completed a Job Search Log which is to keep track of which organisations or capanies you have applied to by monitoring progress and opportunities.
 
 📄 [View My CV](./CV.pdf)
-📄 [View My Job Search Log](./Job%Search%Log.pdf)
+📄 [View My Job Search Log](./Job-Search-Log.pdf)
 
 ---
 
