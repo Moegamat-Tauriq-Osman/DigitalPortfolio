@@ -63,7 +63,7 @@ Traits that could support my growth and effectiveness in a team or technical env
 
 These has helped me build  meaningful relationships and contribute in ways that are both thoughtful and dependable. Understanding personality is not just about personality labels, for me its about about making intentional choices, building healthier habits, and carving a career path that feels both authentic and rewarding.
 
-![ESFJ](./ESFJ%personality.png)
+![ESFJ](./ESFJ_personality.png)
 
 below is my personality report:
 [My Personality Report (PDF)](./ESFJ_Personality_Report.pdf)
