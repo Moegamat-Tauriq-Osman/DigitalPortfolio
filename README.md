@@ -43,6 +43,25 @@ Visit my personal website to explore my projects:
 
 ## 🧬 Personality Assessment
 
+Understanding my personality has helped me with my self-awareness and choose environments where I thrive pe that value structure, collaboration, and purpose. As someone with an ESFJ Consul personality, I am naturally drawn to roles where I can support others and bring order to complex situations.
+
+I see myself as reliable, empathetic, and highly organized. These traits influence the way I work on projects whether it’s maintaining clarity in a team or ensuring the processes run smoothly behind the scenes. My motivation often comes from helping others succeed, and I find real fulfillment in being part of something that improves people’s lives or experiences.
+
+I prefer settings where communication is open and responsibilities are clearly defined. I am constantly learning to balance my drive to support others with the need to set boundaries and care for my own wellbeing. I’ve also grown more comfortable with feedback, using it as a tool for improvement rather than taking it personally.
+
+Traits that could support my growth and effectiveness in a team or technical environment:
+
+- Strong sense of duty and follow-through
+
+- Empathy that strengthens team collaboration
+
+- Natural ability to organize and manage time
+
+- A desire to contribute positively to group goals
+
+- Attention to detail and pride in well-done work
+
+These has helped me build  meaningful relationships and contribute in ways that are both thoughtful and dependable. Understanding personality is not just about personality labels, for me its about about making intentional choices, building healthier habits, and carving a career path that feels both authentic and rewarding.
 ---
 
 ## 📄 CV Creation
