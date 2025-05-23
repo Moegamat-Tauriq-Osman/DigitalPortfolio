@@ -62,6 +62,11 @@ Traits that could support my growth and effectiveness in a team or technical env
 - Attention to detail and pride in well-done work
 
 These has helped me build  meaningful relationships and contribute in ways that are both thoughtful and dependable. Understanding personality is not just about personality labels, for me its about about making intentional choices, building healthier habits, and carving a career path that feels both authentic and rewarding.
+
+![Personality Type 8](./ESFJ%personality.png)
+
+
+[My Personality Report](./ESFJ_Personality_Report.pdf)
 ---
 
 ## 📄 CV Creation
