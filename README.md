@@ -66,6 +66,7 @@ These has helped me build  meaningful relationships and contribute in ways that 
 ![ESFJ](./ESFJ_personality.png)
 
 below is my personality report:
+
 [My Personality Report (PDF)](./ESFJ_Personality_Report.pdf)
 
 ---
