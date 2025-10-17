@@ -37,7 +37,7 @@ These experiences improved my logical thinking, attention to detail, and problem
 
 Visit my personal website to explore my projects:
 
-🔗 [My Personal Portfolio Website](https://moegamattauriqosman.pages.dev/)
+🔗 [My Personal Portfolio Website](https://moegamat-tauriq-osman.github.io/)
 
 ---
 
