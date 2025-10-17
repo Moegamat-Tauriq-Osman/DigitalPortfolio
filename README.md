@@ -96,7 +96,9 @@ I have also completed a Job Search Log which is to keep track of which organisat
 
 ## Business Communication
 I completed the Business Communication training activity from the work rediness module which focused on professional communication and the importance of it in the wrokplace, covering topics like verbal and non-verbal communication in business, the use of formal language in business, tone for business emails and etiquette in virtual meetings.
+
 <img width="1351" height="642" alt="Screenshot 2025-10-17 185104" src="https://github.com/user-attachments/assets/a15a7018-f16c-4c44-ac9a-6835ab012a13" />
+
 
 
 ---
@@ -123,10 +125,10 @@ This portfolio journey has helped me better understand who I am—not just as a 
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/moegamattauriqosman)  
-💻 [My Personal Website – About me, Contact Info, Skills, Github Projects](https://moegamat-tauriq-osman.github.io/)  
-✉️ Email: moegamattauriqosman@gmail.com | 230599125@mycput.ac.za
+[LinkedIn](https://www.linkedin.com/in/moegamattauriqosman)  
+[My Personal Website – About me, Contact Info, Skills, Github Projects](https://moegamat-tauriq-osman.github.io/)  
+Email: moegamattauriqosman@gmail.com | 230599125@mycput.ac.za
 
 
