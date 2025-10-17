@@ -5,7 +5,7 @@
 Welcome to my digital hub. Here, you'll find my projects, ideas, and the stories behind them. It's a glimpse into my passion for learning, creating, and pushing boundaries. Have a look and see where my journey is headed.
 ---
 
-## 📌 Contents
+## Contents
 - [Career Counselling](#-career-counselling)
 - [Skills & Interests](#-skills--interests)
 - [Personality Assessment](#-personality-assessment)
@@ -13,7 +13,7 @@ Welcome to my digital hub. Here, you'll find my projects, ideas, and the stories
 - [CV Submission](#-cv-submission)
 - [Final Reflection](#-final-reflection)
 
-## 🧭 Career Counselling
+## Career Counselling
 Since primary school, I’ve been passionate about tech and fascinated by games. As I grew older, my curiosity about how games and apps are built only deepened.
 
 High school was a turning point—seeing my cousin stay up late studying with stacks of books inspired me. I approached her one day and asked what she was learning. She told me she was studying Information Technology, which involves building applications and working with technology. That moment sparked my interest in tech even more and set me on a path to explore and learn about the exciting world of IT.
@@ -25,7 +25,7 @@ Below is my career advice document:
 
 ---
 
-## 💡 Skills & Interests
+## Skills & Interests
 
 While pursuing my studies in Information and Communication Technology, I became deeply interested in how digital systems are designed and how applications function behind the scenes.
 
@@ -41,7 +41,7 @@ Visit my personal website to explore my projects:
 
 ---
 
-## 🧬 Personality Assessment
+## Personality Assessment
 
 Understanding my personality has helped me with my self-awareness and choose environments where I thrive pe that value structure, collaboration, and purpose. As someone with an ESFJ Consul personality, I am naturally drawn to roles where I can support others and bring order to complex situations.
 
@@ -71,7 +71,7 @@ below is my personality report:
 
 ---
 
-## 📄 CV Creation
+## CV Creation
 
 Creating my CV was an important step as i now understood what a CV intails which I'v learned through a module Project Presentation(Work Integrated Learning) which gave me the oportunity to make sure all my skills, achievements and aspirations are listed clearly from structure, formatting, qualifications etc. It gave me a clearer perspective on how to position myself effectively on how to strategically align my skills and goals for future opportunities and long-term success.
 
@@ -83,7 +83,7 @@ The module helped me alot on understanding how to create a presentable CV, Conds
 
 ---
 
-## 📬 CV Submission
+## CV Submission
 
 Below is my CV(not complete due to sensitive information), compiled during the Project Presentation Work Readiness and Work-Integrated Learning (WIL) module. It highlights my academic background, technical skills and interests.
 
@@ -94,7 +94,10 @@ I have also completed a Job Search Log which is to keep track of which organisat
 
 ---
 
-## 🧩 Final Reflection
+## Business Communication
+
+---
+## Final Reflection
 
 This portfolio journey has helped me better understand who I am—not just as a student, but as a growing IT professional. I've realized that it's perfectly okay to still be discovering my path, as long as I'm intentional with how I learn, the projects I take on, and how I present my skills and ideas. Each step has strengthened my passion for building practical, user-focused applications and finding innovative solutions through technology.
 
