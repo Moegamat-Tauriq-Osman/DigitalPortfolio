@@ -101,11 +101,15 @@ I completed the Business Communication training activity from the work rediness 
 <img width="1351" height="642" alt="Screenshot 2025-10-17 185104" src="https://github.com/user-attachments/assets/a15a7018-f16c-4c44-ac9a-6835ab012a13" />
 
 ### Reflection
-**Situation:**
-**Task:**
-**Action:**
-**Result:**
 
+**Situation:**
+I was required to participate in and complete the Business Communication activity as part of the work readiness module aimed at strengthening my communication in the workplace. 
+**Task:**
+The goal was to understand and apply professional communication practices like tone, language and etiquette in the workplace wether it being in an email or virtual setting.
+**Action:**
+I took part in enaging and understanding the material aswell as answer a few short questions based on context i read, which tested me on topics like the use of formal language in business settings, tone for business emails, and etiquette in virtual meetings.
+**Result:**
+By the end of the activity, i gained a clear sense of the importance of professional communication in the workplace and business settings. The activity helped me improve how i conduct myself when it comes to professionalism and etiquette in my use of formal language, the tone when structuring emails and professional etiquette in virtual meetings.
 
 
 
