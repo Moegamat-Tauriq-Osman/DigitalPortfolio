@@ -97,22 +97,33 @@ I have also completed a Job Search Log which is to keep track of which organisat
 ## Business Communication
 
 ---
+
+## Interview Skills
+
+---
+
+## Mock Interview
+
+---
+
+## Professional Networking
+
+---
+
+## Workplace Etiquette
+
+---
+
 ## Final Reflection
 
 This portfolio journey has helped me better understand who I am—not just as a student, but as a growing IT professional. I've realized that it's perfectly okay to still be discovering my path, as long as I'm intentional with how I learn, the projects I take on, and how I present my skills and ideas. Each step has strengthened my passion for building practical, user-focused applications and finding innovative solutions through technology.
-
-I'm looking forward to deepening my skills in areas that challenge me creatively and technically like:
-- 🖌️ UI/UX design
-- 📱 App development
-- 🌐 Web Development and Web Frameworks
-- 🧑‍🤝‍🧑 Collaboration and team-building
 
 ---
 
 ### 🔗 Connect with Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/moegamattauriqosman)  
-💻 [My Personal Website – GitHub Projects, Skills, Contact Info, About Me](https://moegamattauriqosman.pages.dev/)  
+💻 [My Personal Website – About me, Contact Info, Skills, Github Projects](https://moegamat-tauriq-osman.github.io/)  
 ✉️ Email: moegamattauriqosman@gmail.com | 230599125@mycput.ac.za
 
 
