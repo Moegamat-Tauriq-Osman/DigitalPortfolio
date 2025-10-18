@@ -141,16 +141,22 @@ I improved and felt more confident , gaining some practical skill to handle inte
 
 ## Mock Interview
 ### Evidence
-I completed the Business Communication training activity from the work rediness module which focused on professional communication and the importance of it in the wrokplace.
+I done a mock interview video simulating a real job interview where i had to answer "Tell me about yourself" and a few common questions asked in interviews  using what i have learnt in the Interview Skills module. I wont be adding the video here but ill share a screenshot of the completion.
+
+<img width="1346" height="645" alt="Screenshot 2025-10-18 201727" src="https://github.com/user-attachments/assets/4d68b74c-f361-467f-a566-067b42dc335a" />
 
 ### Reflection (STAR Technique)
 **Situation:** <br>
+I needed to gain practical experience in asnwering interview questions confidently and professionally to prepare for the job interviews.
 
 **Task:** <br>
+Demonstrate my interview skills in a video recording answering common interview questions.
 
 **Action:** <br>
+I recorded a mock interview video simulating a real job interview scenario showcasing my interview skills.
 
 **Result:** <br>
+This helped me better my interview skills and reflecting back to how i can improve my interview skills aswell as giving me confidence to answer questions and use what i learnt in Interview Skills module on the professional aspect.
 
 ---
 
