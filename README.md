@@ -136,6 +136,7 @@ I engaged in reading the materials, understanding it, practicing the CAR method,
 
 **Result:** <br>
 I improved and felt more confident , gaining some practical skill to handle interviews and present myself professionally when being interviewed.
+
 ---
 
 ## Mock Interview
