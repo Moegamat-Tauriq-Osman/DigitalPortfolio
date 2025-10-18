@@ -162,7 +162,7 @@ This helped me better my interview skills and reflecting back to how i can impro
 
 ## Professional Networking
 ### Evidence
-I completed the Professional Networking training activity as part of the Work Readiness module which focused on building meaningful connections in professional environments.
+I completed the Professional Networking module as part of the Work Readiness training which focused on building meaningful connections in professional environments.
 What i covered in the module were the steps in creating a professional network and avoiding common networking mistakes by applying best practices and professional etiquette.
 
 I enhanced my Linkdln profile and my personal digital portfolio website by following best practices and following the steps in creating a professional network.
@@ -190,22 +190,19 @@ I built meaningful connections and have a professional online presence reflectin
 
 ## Workplace Etiquette
 ### Evidence
-I completed the Business Communication training activity from the work rediness module which focused on professional communication and the importance of it in the wrokplace.
+I completed the Wworkplace Etiquette module as part of the Work Readiness training which focused on how you should conduct yourself in the workplace environment.
 
-### Reflection (STAR Technique) 
-**Situation:** <br>
+<img width="1354" height="643" alt="Screenshot 2025-10-18 210827" src="https://github.com/user-attachments/assets/9c3d77ac-9187-489d-ba25-715229958589" />
 
-**Task:** <br>
-
-**Action:** <br>
-
-**Result:** <br>
+### Feedback from Project Manager
+![ProjectManagerFeedback](./ProjectManagerFeedback.pdf)
+_feedback from project manager on my workplace etiquette highlighting communication, team work and professional conduct._
 
 ---
 
 ## Final Reflection
 
-This portfolio journey has helped me better understand who I am—not just as a student, but as a growing IT professional. I've realized that it's perfectly okay to still be discovering my path, as long as I'm intentional with how I learn, the projects I take on, and how I present my skills and ideas. Each step has strengthened my passion for building practical, user-focused applications and finding innovative solutions through technology.
+This portfolio journey has helped me better understand who I am—not just as a student, but as a growing IT professional. I've realized that it's perfectly okay to still be discovering my path, as long as I'm intentional with how I learn,conduct myself, the projects I take on, and how I present my skills and ideas. Each step has strengthened my passion for building practical, user-focused applications and finding innovative solutions through technology.
 
 ---
 
