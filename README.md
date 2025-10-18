@@ -203,7 +203,7 @@ _feedback from project manager on my workplace etiquette highlighting communicat
 
 ## Final Reflection
 
-This portfolio journey has helped me better understand who I am—not just as a student, but as a growing IT professional. I've realized that it's perfectly okay to still be discovering my path, as long as I'm intentional with how I learn,conduct myself, the projects I take on, and how I present my skills and ideas. Each step has strengthened my passion for building practical, user-focused applications and finding innovative solutions through technology.
+This portfolio journey has helped me better understand who I am—not just as a student, but as a growing IT professional. I've realized that it's perfectly okay to still be discovering my path, as long as I'm intentional with how I learn,conduct myself, the projects I take on, and how I present my skills and ideas. I now clearly understand who i am, my capabilties, my mission and goals are. Each step has strengthened my passion for building practical, user-focused applications and finding innovative solutions through technology.
 
 ---
 
