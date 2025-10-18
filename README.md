@@ -96,7 +96,7 @@ I have also completed a Job Search Log which is to keep track of which organisat
 
 ## Business Communication
 ### Evidence
-I completed the Business Communication training activity from the work rediness module which focused on professional communication and the importance of it in the wrokplace.
+I completed the Business Communication module as part of the Work Readiness training which focused on professional communication and the importance of it in the workplace.
 
 <img width="1351" height="642" alt="Screenshot 2025-10-17 185104" src="https://github.com/user-attachments/assets/a15a7018-f16c-4c44-ac9a-6835ab012a13" />
 
@@ -119,18 +119,64 @@ By the end of the activity, i gained a clear sense of the importance of professi
 ---
 
 ## Interview Skills
+### Evidence
+I completed the Iterview Skills module as part of the Work Readiness training and answered short questions covering the purpose of job interviews, CAR (Context, Action, Result) method for answering questions in interviews, researching companies before interviews, answering questions such as “Tell me about yourself” and the best approach to addressing weaknesses you weaknesses when asked about it.
+
+<img width="1347" height="645" alt="Screenshot 2025-10-18 191406" src="https://github.com/user-attachments/assets/aaa8e4cd-13a5-4118-93f6-0d47233f6e68" />
+
+### Reflection (STAR Technique)
+**Situation:** <br>
+
+**Task:** <br>
+
+**Action:** <br>
+
+**Result:** <br>
 
 ---
 
 ## Mock Interview
+### Evidence
+I completed the Business Communication training activity from the work rediness module which focused on professional communication and the importance of it in the wrokplace.
+
+### Reflection (STAR Technique)
+**Situation:** <br>
+
+**Task:** <br>
+
+**Action:** <br>
+
+**Result:** <br>
 
 ---
 
 ## Professional Networking
+### Evidence
+I completed the Business Communication training activity from the work rediness module which focused on professional communication and the importance of it in the wrokplace.
+
+### Reflection (STAR Technique)
+**Situation:** <br>
+
+**Task:** <br>
+
+**Action:** <br>
+
+**Result:** <br>
 
 ---
 
 ## Workplace Etiquette
+### Evidence
+I completed the Business Communication training activity from the work rediness module which focused on professional communication and the importance of it in the wrokplace.
+
+### Reflection (STAR Technique) 
+**Situation:** <br>
+
+**Task:** <br>
+
+**Action:** <br>
+
+**Result:** <br>
 
 ---
 
