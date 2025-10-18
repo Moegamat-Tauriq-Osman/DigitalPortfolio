@@ -147,7 +147,7 @@ I done a mock interview video simulating a real job interview where i had to ans
 
 ### Reflection (STAR Technique)
 **Situation:** <br>
-I needed to gain practical experience in asnwering interview questions confidently and professionally to prepare for the job interviews.
+I needed to gain practical experience in asnwering interview questions confidently and professionally to prepare for real job interviews.
 
 **Task:** <br>
 Demonstrate my interview skills in a video recording answering common interview questions.
