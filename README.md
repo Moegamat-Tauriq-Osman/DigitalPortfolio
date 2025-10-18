@@ -196,6 +196,7 @@ I completed the Wworkplace Etiquette module as part of the Work Readiness traini
 
 ### Feedback from Project Manager
 ![ProjectManagerFeedback](./ProjectManagerFeedback.pdf)
+
 _feedback from project manager on my workplace etiquette highlighting communication, team work and professional conduct._
 
 ---
