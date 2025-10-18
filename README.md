@@ -11,8 +11,12 @@ Welcome to my Digital Portfolio. This portfolio reflects my professionalism in m
 - [Personality Assessment](#-personality-assessment)
 - [CV Creation](#-cv-creation)
 - [CV Submission](#-cv-submission)
+- [Business Communication](#-business-communication)
+- [Interview Skills](#-interview-skills)
+- [Mock Interview](#-mock-interview)
+- [Professional Networking](#-professional-networking)
+- [Workplace Etiquette](#-workplace-etiquette)
 - [Final Reflection](#-final-reflection)
-
 ## Career Counselling
 Since primary school, I’ve been passionate about tech and fascinated by games. As I grew older, my curiosity about how games and apps are built only deepened.
 
