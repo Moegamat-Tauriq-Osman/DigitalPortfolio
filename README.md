@@ -2,7 +2,7 @@
 
 > 🎓 Information and Communication Technology Student: Applications Development
 
-Welcome to my digital hub. Here, you'll find my projects, ideas, and the stories behind them. It's a glimpse into my passion for learning, creating, and pushing boundaries. Have a look and see where my journey is headed.
+Welcome to my Digital Portfolio. This portfolio reflects my professionalism in my field of studies. Here, you'll find my projects, ideas, and the stories behind them. It's a glimpse into my passion for learning, creating, pushing boundaries and becoming a skilled developer. 
 ---
 
 ## Contents
