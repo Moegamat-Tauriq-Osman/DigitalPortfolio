@@ -120,19 +120,22 @@ By the end of the activity, i gained a clear sense of the importance of professi
 
 ## Interview Skills
 ### Evidence
-I completed the Iterview Skills module as part of the Work Readiness training and answered short questions covering the purpose of job interviews, CAR (Context, Action, Result) method for answering questions in interviews, researching companies before interviews, answering questions such as “Tell me about yourself” and the best approach to addressing weaknesses you weaknesses when asked about it.
+I completed the Interview Skills module as part of the Work Readiness training and answered short questions covering topics like, the purpose of job interviews, CAR (Context, Action, Result) method for answering questions in interviews, researching companies before interviews, answering questions such as “Tell me about yourself” and the best approach to addressing your weaknesses when asked about it.
 
 <img width="1347" height="645" alt="Screenshot 2025-10-18 191406" src="https://github.com/user-attachments/assets/aaa8e4cd-13a5-4118-93f6-0d47233f6e68" />
 
 ### Reflection (STAR Technique)
 **Situation:** <br>
+I needed to develop professional interview skills and practice them to prepare myself for future job interviews.
 
 **Task:** <br>
+Understand interview techniques and how to present myself and answer questions confidently and professionally.
 
 **Action:** <br>
+I engaged in reading the materials, understanding it, practicing the CAR method, how to best answer questions about myself and completed the short quiz questions at the end of the module.
 
 **Result:** <br>
-
+I improved and felt more confident , gaining some practical skill to handle interviews and present myself professionally when being interviewed.
 ---
 
 ## Mock Interview
