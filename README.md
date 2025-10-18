@@ -120,7 +120,7 @@ By the end of the activity, i gained a clear sense of the importance of professi
 
 ## Interview Skills
 ### Evidence
-I completed the Interview Skills module as part of the Work Readiness training and answered short questions covering topics like, the purpose of job interviews, CAR (Context, Action, Result) method for answering questions in interviews, researching companies before interviews, answering questions such as “Tell me about yourself” and the best approach to addressing your weaknesses when asked about it.
+I completed the Interview Skills module as part of the Work Readiness training and answered short questions covering topics like, the purpose of job interviews, CAR method for answering questions in interviews, researching companies before interviews, answering questions such as “Tell me about yourself” and the best approach to addressing your weaknesses when asked about it.
 
 <img width="1347" height="645" alt="Screenshot 2025-10-18 191406" src="https://github.com/user-attachments/assets/aaa8e4cd-13a5-4118-93f6-0d47233f6e68" />
 
@@ -167,9 +167,9 @@ What i covered in the module were the steps in creating a professional network a
 
 I enhanced my Linkdln profile and my personal digital portfolio website by following best practices and following the steps in creating a professional network.
 <img width="1349" height="644" alt="Linkdln" src="https://github.com/user-attachments/assets/fc11019a-ebed-418e-9d35-ce0a11b9f3d9" />
-(screenshot of my Linkdln profile)
+_(screenshot of my Linkdln profile)_
 <img width="1349" height="649" alt="Portfoliowebsite" src="https://github.com/user-attachments/assets/188edeeb-b7c1-4ed8-8b4b-d90deacf0e80" />
-(screenshot of my personal digital portfolio website)
+_(screenshot of my personal digital portfolio website)_
 
 [Connect with on Linkdln](https://www.linkedin.com/in/moegamattauriqosman) | [View my portfolio](https://moegamat-tauriq-osman.github.io/) 
 
