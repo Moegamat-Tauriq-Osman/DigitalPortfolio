@@ -171,7 +171,7 @@ I enhanced my Linkdln profile and my personal digital portfolio website by follo
 <img width="1349" height="649" alt="Portfoliowebsite" src="https://github.com/user-attachments/assets/188edeeb-b7c1-4ed8-8b4b-d90deacf0e80" />
 (screenshot of my personal digital portfolio website)
 
-[Connect with on Linkdln](https://www.linkedin.com/in/moegamattauriqosman)  [View my portfolio](https://moegamat-tauriq-osman.github.io/) 
+[Connect with on Linkdln](https://www.linkedin.com/in/moegamattauriqosman) | [View my portfolio](https://moegamat-tauriq-osman.github.io/) 
 
 ### Reflection (STAR Technique)
 **Situation:** <br>
