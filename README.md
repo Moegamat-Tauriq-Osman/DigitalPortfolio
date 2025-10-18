@@ -162,16 +162,29 @@ This helped me better my interview skills and reflecting back to how i can impro
 
 ## Professional Networking
 ### Evidence
-I completed the Business Communication training activity from the work rediness module which focused on professional communication and the importance of it in the wrokplace.
+I completed the Professional Networking training activity as part of the Work Readiness module which focused on building meaningful connections in professional environments.
+What i covered in the module were the steps in creating a professional network and avoiding common networking mistakes by applying best practices and professional etiquette.
+
+I enhanced my Linkdln profile and my personal digital portfolio website by following best practices and following the steps in creating a professional network.
+<img width="1349" height="644" alt="Linkdln" src="https://github.com/user-attachments/assets/fc11019a-ebed-418e-9d35-ce0a11b9f3d9" />
+(screenshot of my Linkdln profile)
+<img width="1349" height="649" alt="Portfoliowebsite" src="https://github.com/user-attachments/assets/188edeeb-b7c1-4ed8-8b4b-d90deacf0e80" />
+(screenshot of my personal digital portfolio website)
+
+[Connect with on Linkdln](https://www.linkedin.com/in/moegamattauriqosman)  [View my portfolio](https://moegamat-tauriq-osman.github.io/) 
 
 ### Reflection (STAR Technique)
 **Situation:** <br>
+I wanted to strengthen professional network.
 
 **Task:** <br>
+Understand the value of networking and apply networking strategies to strengthen my network effectively and professionally.
 
 **Action:** <br>
+Applied what i learnt in the module to establish a professional network effectively and engage with my connections on Linkdln.
 
 **Result:** <br>
+I built meaningful connections and have a professional online presence reflecting who i am, my skills, experience and contact information. This gave me the abilty to network professionally.
 
 ---
 
