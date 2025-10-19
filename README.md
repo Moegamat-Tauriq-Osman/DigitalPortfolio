@@ -198,10 +198,12 @@ I completed the Wworkplace Etiquette module as part of the Work Readiness traini
 
 <img width="1354" height="643" alt="Screenshot 2025-10-18 210827" src="https://github.com/user-attachments/assets/9c3d77ac-9187-489d-ba25-715229958589" />
 
-### Feedback from Project Manager (Reports and Registers
+### Feedback from Project Manager (Reports and Registers)
 [Osman_MT_SeptemberReport&Register.pdf](https://github.com/user-attachments/files/22991003/Osman_MT_230599125_SeptemberReport.Register.pdf)
+
 [Osman_MT_AugustReport&Register.pdf](https://github.com/user-attachments/files/22991001/Osman_MT_230599125_AugustReport.Register.pdf)
-_reports and registers with feedback from project manager._
+
+_reports and registers containing feedback from project manager._
 
 ---
 
